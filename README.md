@@ -1,13 +1,12 @@
 # 🔐 Portfolio – Belaid AZIL
 
 Portfolio personnel de **Belaid AZIL**, étudiant en L3 Informatique à l'Université de Caen Normandie.  
-Candidat en Master Informatique – spécialité **Cybersécurité**, en alternance.
 
 ---
 
 ## 🚀 Voir le site
 
-👉 **[belaid-azil.github.io/portfolio](https://azilbelaid.github.io/portfolio)**
+👉 **[belaid-azil.github.io/portfolio](https://azilbelaid.github.io/Portfolio)**
 
 ---
 
@@ -17,7 +16,6 @@ Candidat en Master Informatique – spécialité **Cybersécurité**, en alterna
 portfolio/
 ├── index.html              # Page principale
 ├── README.md               # Ce fichier
-├── .gitignore
 └── assets/
     ├── css/
     │   └── style.css       # Tous les styles
