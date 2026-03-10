@@ -1,24 +1,44 @@
-# Portfolio – Belaid AZIL
+# 🔐 Portfolio – Belaid AZIL
 
-## Structure
+Portfolio personnel de **Belaid AZIL**, étudiant en L3 Informatique à l'Université de Caen Normandie.  
+Candidat en Master Informatique – spécialité **Cybersécurité**, en alternance.
+
+---
+
+## 🚀 Voir le site
+
+👉 **[belaid-azil.github.io/portfolio](https://azilbelaid.github.io/portfolio)**
+
+---
+
+## 📁 Structure du projet
+
 ```
 portfolio/
-├── index.html          ← Portfolio complet (1 fichier)
-└── cv_belaid_azil.pdf  ← ⚠️  À PLACER ICI (votre CV en PDF)
+├── index.html              # Page principale
+├── README.md               # Ce fichier
+├── .gitignore
+└── assets/
+    ├── css/
+    │   └── style.css       # Tous les styles
+    ├── js/
+    │   └── main.js         # Interactions et animations
+    └── img/
+        └── photo-profil.png
 ```
 
-## Instructions
+---
 
-### 1. Ajouter votre CV
-Placez votre fichier CV au format PDF dans le dossier `portfolio/`
-et renommez-le exactement : **`cv_belaid_azil.pdf`**
+## 🛠️ Technologies
 
-Le bouton "Télécharger mon CV" fonctionnera automatiquement.
+- **HTML5** / **CSS3** (animations, variables CSS, grid, flexbox)
+- **JavaScript** vanilla (scroll reveal, compteurs, menu hamburger)
+- Polices : Playfair Display, DM Sans, Fira Code, Orbitron
 
-### 2. Ouvrir le portfolio
-Double-cliquez sur `index.html` pour l'ouvrir dans votre navigateur.
+---
 
-### 3. Mettre en ligne (optionnel)
-- **GitHub Pages** : Créez un repo `votre-pseudo.github.io`, uploadez les fichiers
-- **Netlify** : Glissez-déposez le dossier sur netlify.com (gratuit)
-- **Vercel** : `vercel deploy` dans le dossier
+## 📬 Contact
+
+- 📧 belaidazil48@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/belaid-azil-42b30a2ba/)
+- 🐙 [GitHub](https://github.com/Azilbelaid)
