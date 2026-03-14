@@ -29,7 +29,7 @@ if (particlesContainer) {
 }
 
 /* ─── TYPING EFFECT ──────────────────────────────────────────────────── */
-const words = ['Cybersécurité', 'CTF Player', 'Dev Full-Stack', 'Kali Linux', 'Pentester', 'Master 2025'];
+const words = ['Cybersécurité', 'CTF Player', 'Dev Full-Stack', 'Kali Linux', 'Pentester', 'IA & Algo'];
 let wIdx = 0, cIdx = 0, deleting = false;
 const el = document.getElementById('typingText');
 function type() {
@@ -121,7 +121,6 @@ if (hamburger) {
     hamburger.classList.toggle('open');
     navLinks2.classList.toggle('open');
   });
-  // Close menu on link click
   navLinks2.querySelectorAll('a').forEach(link => {
     link.addEventListener('click', () => {
       hamburger.classList.remove('open');
